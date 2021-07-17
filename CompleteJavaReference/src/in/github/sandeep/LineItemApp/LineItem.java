@@ -4,6 +4,7 @@
 package in.github.sandeep.LineItemApp;
 
 import java.text.NumberFormat;
+import java.util.Locale;
 
 /**
  * @author Sandeep Prajapati
@@ -45,7 +46,7 @@ public class LineItem {
 	}
 	
 	public String getFormattedTotal() {
-		NumberFormat currency = NumberFormat.getCurrencyInstance();
+		NumberFormat currency = NumberFormat.getCurrencyInstance(Locale.US);
 		return currency.format(this.getTotal());
 	}
 	

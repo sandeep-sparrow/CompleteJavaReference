@@ -3,8 +3,6 @@
  */
 package in.github.sandeep.LineItemApp;
 
-import in.github.sandeep.productApp.Product;
-
 /**
  * @author Sandeep Prajapati
  *
@@ -26,6 +24,9 @@ public class ProductDB {
 		}else if(productCode.equalsIgnoreCase("mcb2")) {
 			p.setDescription("Murach's COBOL programming");
 			p.setPrice(59.50);
+		}else if (productCode.equalsIgnoreCase("txtp")){
+			p.setDescription("Text Pad");
+			p.setPrice(20.00);
 		}else {
 			p.setDescription("Unkown");
 		}
