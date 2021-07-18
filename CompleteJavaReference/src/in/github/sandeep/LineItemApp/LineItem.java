@@ -37,11 +37,11 @@ public class LineItem {
 	}
 	
 	public double getTotal() {
-		this.CalucateTotal();
+		this.CalculateTotal();
 		return total;
 	}
 	
-	private void CalucateTotal() {
+	private void CalculateTotal() {
 		this.total = quantity * product.getPrice(); 
 	}
 	

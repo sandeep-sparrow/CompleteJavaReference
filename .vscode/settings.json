@@ -1,8 +1,17 @@
 {
     "cSpell.words": [
+        "auto",
+        "dmax",
+        "dmin",
+        "generated",
+        "imax",
+        "imin",
         "lineitem",
+        "method",
         "prajapati",
-        "sandeep"
+        "sandeep",
+        "stub",
+        "todo"
     ],
     "cSpell.ignoreWords": [
         "AUTO-",
