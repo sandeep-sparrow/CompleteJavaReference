@@ -5,4 +5,4 @@
  * @author Sandeep Prajapati
  *
  */
-package in.guthub.sandeep.classIntro;
+package in.github.sandeep.classIntro;

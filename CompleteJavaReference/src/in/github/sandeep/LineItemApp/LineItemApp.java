@@ -52,7 +52,7 @@ public class LineItemApp {
 			System.out.println();
 			
 		}
-		System.out.println("Thanks for Shoping with us!");
+		System.out.println("Thanks for Shopping with us!");
 		sc.close();
 
 	}
