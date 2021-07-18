@@ -30,7 +30,7 @@ public class LineItemApp {
 					"Enter Product Code ");
 			
 			int quantity = Validator.getInt(sc, 
-					"Enter Quatity ", 1000, 0);
+					"Enter Quantity ", 1000, 0);
 			
 			Product product = 
 					ProductDB.getProduct(productCode);
