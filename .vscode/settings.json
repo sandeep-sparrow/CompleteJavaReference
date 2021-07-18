@@ -3,5 +3,14 @@
         "lineitem",
         "prajapati",
         "sandeep"
+    ],
+    "cSpell.ignoreWords": [
+        "AUTO-",
+        "TODO",
+        "auto",
+        "generated",
+        "method",
+        "stub",
+        "todo"
     ]
 }
