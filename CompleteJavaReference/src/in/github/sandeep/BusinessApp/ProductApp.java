@@ -4,7 +4,6 @@
 package in.github.sandeep.BusinessApp;
 
 import java.util.Scanner;
-import java.lang.Class;
 
 /**
  * @author Sandeep Prajapati
